@@ -492,3 +492,9 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd sql_reference/
 git branch -d feat/add-drop-table-reference
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git branch feat/add-column-references
+git checkout feat/add-column-references
+git checkout -b feat/add-column-references
