@@ -678,3 +678,8 @@ git chekout -b feat/add-more-row-references
 git checkout -b feat/add-more-row-references
 git stash list
 git stash pop
+git stash
+git stash list
+git stash list
+clear
+git stash list
