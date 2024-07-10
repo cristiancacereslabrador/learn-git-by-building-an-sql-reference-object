@@ -93,3 +93,4 @@ touch README.md
 nano README.md
 git status
 git add README.md
+git status
