@@ -101,3 +101,4 @@ git status
 __vsc_prompt_cmd_original
 git commit -m "Initial commit"
 git status
+git log
