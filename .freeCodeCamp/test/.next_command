@@ -169,3 +169,4 @@ git add
 cd sql_reference/
 ls --color=auto
 git add sql_reference.json
+git status
