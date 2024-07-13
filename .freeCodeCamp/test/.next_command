@@ -305,3 +305,4 @@ log
 git log
 git branch
 git branch feat/add-create-table-reference
+git branch
