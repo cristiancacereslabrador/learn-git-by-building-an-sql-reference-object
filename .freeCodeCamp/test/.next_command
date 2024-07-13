@@ -303,3 +303,4 @@ cd sql_reference/
 git commit -m "feat: add drop database reference"
 log
 git log
+git branch
