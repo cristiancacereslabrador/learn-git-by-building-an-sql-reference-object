@@ -301,3 +301,5 @@ git commit -m "feat: add drop database reference"
 ls --color=auto
 cd sql_reference/
 git commit -m "feat: add drop database reference"
+log
+git log
