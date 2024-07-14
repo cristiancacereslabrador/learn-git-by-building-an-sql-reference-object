@@ -459,3 +459,6 @@ git log
 git branch feat/add-drop-table-reference
 git branch main
 git branch
+git checkout feat/add-drop-table-reference
+git merge main
+git merge feat/add-drop-table-reference
