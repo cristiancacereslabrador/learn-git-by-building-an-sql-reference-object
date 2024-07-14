@@ -399,3 +399,24 @@ git status
 git diff
 __vsc_prompt_cmd_original
 git add sql_reference.json
+git branch
+git commit -m "feat:add-create-table-reference"
+git commit -m "feat: add-create-table-reference"
+git commit -m "feat: add-create-table-reference"
+git commit -m "feat: add-create-table-reference"
+git commit -a "feat: add-create-table-reference"
+git commit -m "feat: add-create-table-reference"
+git reset HEAD~1
+git add .
+git commit -m "feat: add-create-table-reference"
+ls --color=auto
+git status
+git log
+git commit -m "feat: add create table reference"
+git commit -m "feat: add create table reference"
+git commit -m "feat: add create table reference"
+git log
+git reset HEAD~1
+git log
+git add .
+git commit -m "feat: add create table reference"
