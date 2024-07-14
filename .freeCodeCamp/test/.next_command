@@ -447,3 +447,4 @@ git branch -D feat/add-create-table-reference
 git branch
 git checkout -b feat/add-drop-table-reference
 git status
+git diff
