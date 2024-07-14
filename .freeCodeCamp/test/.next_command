@@ -397,3 +397,5 @@ cd sql_reference/
 git statur
 git status
 git diff
+__vsc_prompt_cmd_original
+git add sql_reference.json
