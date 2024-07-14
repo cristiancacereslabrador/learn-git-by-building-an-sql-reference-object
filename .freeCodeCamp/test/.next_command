@@ -420,3 +420,4 @@ git reset HEAD~1
 git log
 git add .
 git commit -m "feat: add create table reference"
+git log
