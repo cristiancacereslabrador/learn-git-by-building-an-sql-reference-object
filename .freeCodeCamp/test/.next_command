@@ -445,3 +445,4 @@ git log
 git branch -d feat/add-create-table-reference
 git branch -D feat/add-create-table-reference
 git branch
+git checkout -b feat/add-drop-table-reference
