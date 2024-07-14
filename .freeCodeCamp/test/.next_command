@@ -426,3 +426,5 @@ git checkout main
 git checkout feat/add-create-table-reference
 git checkout main
 git log --oneline
+git log
+git branch
