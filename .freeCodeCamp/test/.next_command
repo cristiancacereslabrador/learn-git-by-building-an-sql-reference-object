@@ -430,3 +430,4 @@ git log
 git branch
 git merge main
 git merge feat/add-create-table-reference
+git log --oneline
