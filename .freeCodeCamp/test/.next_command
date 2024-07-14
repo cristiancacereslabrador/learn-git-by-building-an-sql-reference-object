@@ -421,3 +421,4 @@ git log
 git add .
 git commit -m "feat: add create table reference"
 git log
+git log --oneline
