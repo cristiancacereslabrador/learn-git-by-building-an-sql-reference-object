@@ -455,3 +455,7 @@ git branch main
 git switch main
 git chekout main
 git checkout main
+git log
+git branch feat/add-drop-table-reference
+git branch main
+git branch
