@@ -451,3 +451,7 @@ git diff
 git add sql_reference.json
 git commit -m feat: add drop table reference
 git commit -m "feat: add drop table reference"
+git branch main
+git switch main
+git chekout main
+git checkout main
