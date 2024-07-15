@@ -539,3 +539,4 @@ git log --oneline
 git diff
 git add .
 git commit -m "feat: add drop column reference"
+git log --oneline
