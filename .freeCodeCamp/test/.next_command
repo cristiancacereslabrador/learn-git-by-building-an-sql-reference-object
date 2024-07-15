@@ -535,3 +535,4 @@ git log ---online
 git log ---oneline
 git log --oneline
 git rebase main
+git log --oneline
