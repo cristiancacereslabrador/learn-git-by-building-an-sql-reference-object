@@ -536,3 +536,5 @@ git log ---oneline
 git log --oneline
 git rebase main
 git log --oneline
+git diff
+git add .
