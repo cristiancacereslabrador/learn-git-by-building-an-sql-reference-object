@@ -515,3 +515,11 @@ check diff
 it diff
 git diff
 git add .
+git commit -m "fix/create-table-syntax"
+git log
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git log
+git reset HEAD~1
+git add .
+git commit -m "fix: create table syntax"
