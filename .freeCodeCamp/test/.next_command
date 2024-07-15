@@ -511,3 +511,7 @@ git log --oneline
 git checkout main
 git chekout -b fix/create-table-syntax
 git checkout -b fix/create-table-syntax
+check diff
+it diff
+git diff
+git add .
