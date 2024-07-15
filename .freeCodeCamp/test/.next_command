@@ -504,3 +504,4 @@ __vsc_prompt_cmd_original
 clear
 git diff
 git add .
+git commit -m "feat: add column reference"
