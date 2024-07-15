@@ -498,3 +498,7 @@ __vsc_prompt_cmd_original
 git branch feat/add-column-references
 git checkout feat/add-column-references
 git checkout -b feat/add-column-references
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+clear
