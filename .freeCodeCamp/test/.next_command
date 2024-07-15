@@ -505,3 +505,6 @@ clear
 git diff
 git add .
 git commit -m "feat: add column reference"
+git loh
+git log
+git log --oneline
