@@ -509,3 +509,5 @@ git loh
 git log
 git log --oneline
 git checkout main
+git chekout -b fix/create-table-syntax
+git checkout -b fix/create-table-syntax
