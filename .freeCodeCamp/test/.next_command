@@ -683,3 +683,4 @@ git stash list
 git stash list
 clear
 git stash list
+git diff
