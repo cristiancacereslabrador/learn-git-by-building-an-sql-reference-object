@@ -618,3 +618,4 @@ git add sql_reference.json
 git status
 git reset HEAD sql_reference.json
 git stash
+git status
