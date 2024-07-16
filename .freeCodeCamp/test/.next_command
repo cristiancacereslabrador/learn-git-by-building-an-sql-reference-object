@@ -619,3 +619,4 @@ git status
 git reset HEAD sql_reference.json
 git stash
 git status
+git stash list
