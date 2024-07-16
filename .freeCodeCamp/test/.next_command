@@ -660,3 +660,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd sql_reference/
 git list
 git stash list
+git stash show
+git stash show stash@{1}
