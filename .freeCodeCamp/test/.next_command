@@ -736,3 +736,5 @@ git checkout main
 git merge feat/add-more-row-references
 git checkout
 git checkout feat/add-column-references
+git rebase
+git rebase main
