@@ -604,3 +604,11 @@ git add sql_reference.json
 git log --oneline
 git diff
 git commit -m "feat: add rename column reference"
+git checkout feat/add-insert-row-reference
+git commit -m "feat: add rename column reference"
+git commit -m "feat: add rename column reference"
+git checkout feat/add-insert-row-reference
+git commit -m "feat: add rename column reference"
+git add sql_reference.json
+git commit -m "feat: add rename column reference"
+git checkout feat/add-insert-row-reference
