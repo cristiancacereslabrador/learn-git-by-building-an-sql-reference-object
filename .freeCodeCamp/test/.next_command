@@ -584,3 +584,11 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 git revert -m 1 HEAD
 git merge feat/add-insert-row-reference
+__vsc_prompt_cmd_original
+git merge feat/add-insert-row-reference
+git commit -m "feat: add insert row reference"
+git merge feat/add-insert-row-reference
+git logs --oneline
+git log --oneline
+git checkout
+git checkout feat/add-column-references
