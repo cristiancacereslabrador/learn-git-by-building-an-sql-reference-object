@@ -729,3 +729,6 @@ cd sql_reference/
 git add sql_reference.json
 __vsc_prompt_cmd_original
 git add sql_reference.json
+__vsc_prompt_cmd_original
+git status
+git commit -m "feat: add update row reference"
