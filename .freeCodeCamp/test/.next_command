@@ -595,3 +595,4 @@ git checkout feat/add-column-references
 git rebase main
 gir status
 git status
+git add sql_reference.json
