@@ -667,3 +667,5 @@ git stash show stash@{0} patch
 git stash show -p
 git stash show stash@{1} -p
 git stash drop
+git stach list
+git stash list
