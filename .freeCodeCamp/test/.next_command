@@ -598,3 +598,7 @@ git status
 git add sql_reference.json
 git status
 git rebase --continue
+git rebase --continue
+__vsc_prompt_cmd_original
+git add sql_reference.json
+git log --oneline
