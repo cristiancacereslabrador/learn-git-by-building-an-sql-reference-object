@@ -612,3 +612,5 @@ git commit -m "feat: add rename column reference"
 git add sql_reference.json
 git commit -m "feat: add rename column reference"
 git checkout feat/add-insert-row-reference
+check status
+git status
