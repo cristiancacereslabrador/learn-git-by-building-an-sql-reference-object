@@ -603,3 +603,4 @@ __vsc_prompt_cmd_original
 git add sql_reference.json
 git log --oneline
 git diff
+git commit -m "feat: add rename column reference"
