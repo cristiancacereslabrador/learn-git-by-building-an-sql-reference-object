@@ -677,3 +677,4 @@ gir chekout -b feat/add-more-row-references
 git chekout -b feat/add-more-row-references
 git checkout -b feat/add-more-row-references
 git stash list
+git stash pop
