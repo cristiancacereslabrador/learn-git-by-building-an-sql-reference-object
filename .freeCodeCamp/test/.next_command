@@ -578,3 +578,9 @@ git add .
 git commit -m "feat: add insert row reference"
 git checkout main
 git branch
+git merge feat/add-col
+git merge feat/add-column-references
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git revert -m 1 HEAD
+git merge feat/add-insert-row-reference
