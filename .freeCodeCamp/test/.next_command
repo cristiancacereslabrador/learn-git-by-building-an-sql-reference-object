@@ -975,3 +975,5 @@ git branch -d feat/add-column-references
 git checkout fix/add-missing-rename-references
 git rebase main
 git log -5 --oneline
+git diff
+git add sql_reference.json
