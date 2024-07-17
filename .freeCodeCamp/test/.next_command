@@ -774,3 +774,4 @@ git commit -m "fix: add missing rename database reference"
 git status
 git add .
 git status
+git rebase --continue
