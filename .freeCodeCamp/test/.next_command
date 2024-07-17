@@ -908,3 +908,4 @@ git revert HEAD
 git log --oneline
 git show
 git show HEAD~1
+git rebase --interactive HEAD~2
