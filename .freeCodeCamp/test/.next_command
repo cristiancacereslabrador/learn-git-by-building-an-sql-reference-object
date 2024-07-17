@@ -966,3 +966,5 @@ git log --oneline
 git rebase --interactive HEAD~5
 git log --onrlinr
 git log --oneline
+git log --1
+git log -1
