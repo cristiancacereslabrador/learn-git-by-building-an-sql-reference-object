@@ -906,3 +906,4 @@ git add sql_reference.json
 git commit -m "feat: add unique reference"
 git revert HEAD
 git log --oneline
+git show
