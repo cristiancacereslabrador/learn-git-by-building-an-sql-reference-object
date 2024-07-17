@@ -766,3 +766,4 @@ git checkout fix/add-missing-rename-references
 git checkout -b fix/add-missing-rename-references
 git diff
 git add sql_reference.json
+git commit -m "fix: add missing rename database reference"
