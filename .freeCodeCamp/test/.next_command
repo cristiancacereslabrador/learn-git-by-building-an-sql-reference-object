@@ -1100,3 +1100,4 @@ git status
 nano sample.env
 git add sample.env
 git commit -m "feat: add sample.env"
+git log --oneline -5
