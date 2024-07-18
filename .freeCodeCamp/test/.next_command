@@ -1088,3 +1088,4 @@ check status
 gitstatus
 git status
 touch .gitignore
+git status
