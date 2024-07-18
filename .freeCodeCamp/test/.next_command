@@ -1091,3 +1091,4 @@ touch .gitignore
 git status
 nano .git
 nano .gitignore
+git status
