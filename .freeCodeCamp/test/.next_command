@@ -1092,3 +1092,5 @@ git status
 nano .git
 nano .gitignore
 git status
+git add sql_reference.json
+git add .gitignore
