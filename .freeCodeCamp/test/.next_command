@@ -1115,3 +1115,5 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 git merge feat/add-gitignore
 git branch -d feat/add-gitignore
+git log -1
+git log --oneline
