@@ -1087,3 +1087,4 @@ nano .env
 check status
 gitstatus
 git status
+touch .gitignore
