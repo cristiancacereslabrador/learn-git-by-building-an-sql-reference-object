@@ -986,3 +986,51 @@ git log --oneline -5
 git rebase HEAD~2
 git commit -m "fix: add missing rename table reference"
 git rebase --interactive HEAD~2
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git stash
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~1
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git rebase --abort
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git rebase --abort
+git log --oneline -5
+git stash --list
+git stash -list
+git stash list
+git stash list
+git stash
+git stash list
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git stash
+git rebase --interactive HEAD~2
+git rebase --abort
+git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git stash list
+git stash
+git rebase --interactive HEAD~2
+git config --global core.editor "nano"
+git rebase --interactive HEAD~2
+git config --global --get core.editor
+git rebase --interactive HEAD~2
+git stash
+git rebase --interactive HEAD~2
