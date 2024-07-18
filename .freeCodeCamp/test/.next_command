@@ -1109,3 +1109,8 @@ git log --oneline -1
 git log -1
 git chekout main
 git checkout main
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+git merge feat/add-gitignore
