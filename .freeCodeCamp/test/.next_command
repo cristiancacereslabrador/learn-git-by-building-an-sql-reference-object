@@ -1094,3 +1094,4 @@ nano .gitignore
 git status
 git add sql_reference.json
 git add .gitignore
+git commit -m "feat: add .gitignore"
