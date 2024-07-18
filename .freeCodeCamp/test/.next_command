@@ -1034,3 +1034,6 @@ git config --global --get core.editor
 git rebase --interactive HEAD~2
 git stash
 git rebase --interactive HEAD~2
+git rebase --interactive HEAD~2
+git stash
+git rebase --interactive HEAD~2
