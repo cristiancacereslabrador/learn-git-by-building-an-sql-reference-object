@@ -1084,3 +1084,6 @@ git checkout feat/add-gitignore
 git checkout -b feat/add-gitignore
 touch .env
 nano .env
+check status
+gitstatus
+git status
