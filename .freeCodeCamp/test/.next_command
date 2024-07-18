@@ -1117,3 +1117,4 @@ git merge feat/add-gitignore
 git branch -d feat/add-gitignore
 git log -1
 git log --oneline
+git log
